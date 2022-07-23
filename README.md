@@ -1,6 +1,6 @@
 <h1 align="center">Console.log('Seja Bem Vindo!')</h1>
 <h2>Me chamo Bruce (mas não sou o batman!)</h2>
-<h4 align="center">Gosto muito de Tecnologia, e tudo que a envolva, sou formado em Sistemas de Informação, especialista em Banco de Dados, atualmente fazendo Curso de programação da Trybe, logo serei um Desenvolvedor Full Stack!</h4>
+<h3 align="center">Gosto muito de Tecnologia, e tudo que a envolva, sou formado em Sistemas de Informação, especialista em Banco de Dados, atualmente fazendo Curso de programação da Trybe, logo serei um Desenvolvedor Full Stack!</h3>
 
 <h3 align="left">📫 Você me achará aqui: brucealberto2@gmail.com</h3>
 
