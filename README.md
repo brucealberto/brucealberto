@@ -14,5 +14,7 @@
 
 <h3 align="left">GitHub Stats</h3>
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucealberto"/> <img src="https://github-readme-stats.vercel.app/api?username=brucealberto" /> </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucealberto"/>
+  </div>
+  <div><img src="https://github-readme-stats.vercel.app/api?username=brucealberto" /> </div>
 
